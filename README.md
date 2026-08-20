@@ -2,11 +2,17 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&animation=fadeIn&desc=to%20my%20github%20page&descAlignY=65"/>
 </p>
 
-  <a href="https://www.linkedin.com/in/alicia-medina-iub25/"> 
-    <img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/> 
-  </a> [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=planetsandstars&repo=planetsandstars%2Faliciamedina.github.io&description_lines_count=2&theme=ambient_gradient)](https://github.com/planetsandstars/aliciamedina.github.io) <a href="mailto:a.medina.hoosier@gmail.com">
+<div align="center">
+  <a href="https://www.linkedin.com/in/alicia-medina-iub25/">
+    <img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
+  </a>
+  <a href="https://github.com/planetsandstars/aliciamedina.github.io">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=planetsandstars&repo=aliciamedina.github.io&description_lines_count=2&theme=ambient_gradient"/>
+  </a>
+  <a href="mailto:a.medina.hoosier@gmail.com">
     <img width="40" height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"/>
   </a>
+</div>
 
 # Hi, I'm Alicia 👋
 
